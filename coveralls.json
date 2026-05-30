@@ -1,0 +1,7 @@
+{
+  "skip_files": [
+    "test/",
+    "lib/cashier/application.ex"
+  ],
+  "minimum_coverage": 80
+}

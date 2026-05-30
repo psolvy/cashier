@@ -1,0 +1,16 @@
+/_build/
+/cover/
+/deps/
+/doc/
+erl_crash.dump
+*.ez
+cashier-*.tar
+/tmp/
+/priv/plts/
+.DS_Store
+.elixir_ls/
+*.swp
+*.secret.exs
+.env
+.env.local
+.expert
