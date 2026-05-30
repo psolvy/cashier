@@ -1,6 +1,6 @@
 # Cashier
 
-[![CI](https://github.com/psolvy/cashier/actions/workflows/ci.yml/badge.svg)](https://github.com/psolvy/cashier/actions/workflows/ci.yml)
+[![CI](https://github.com/psolvy/cashier/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/psolvy/cashier/actions/workflows/ci.yml?query=branch%3Amaster)
 
 A pure-OTP supermarket cashier service. Stateful checkout sessions, an
 in-memory product catalog, a flexible pricing-rule store, and a pure
